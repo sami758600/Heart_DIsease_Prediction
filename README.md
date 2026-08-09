@@ -44,10 +44,12 @@ A false negative occurs when:
 ```text
 Actual → Heart Disease
 Model  → No Heart Disease
+```
 
-## My Experience
+##  My Experience
 From this project I understood the ML pipelines as well as EDA. At first I thought  it is easy to do projects as we just need a dataset 
 identify null values and outliers  remove or correct them  and remove useless features
 but from this project I understood  that we cant remove  any feature just because we think its useless  we need to first see its distribution and find the upper and lower bounds
 there are different methods for understanding data of continuous values and categorical values
 this project made me learn something new.
+
